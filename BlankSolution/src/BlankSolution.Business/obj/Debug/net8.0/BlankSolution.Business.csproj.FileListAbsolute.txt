@@ -1,0 +1,17 @@
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Business\bin\Debug\net8.0\BlankSolution.Business.deps.json
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Business\bin\Debug\net8.0\BlankSolution.Business.dll
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Business\bin\Debug\net8.0\BlankSolution.Business.pdb
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Business\bin\Debug\net8.0\BlankSolution.Core.dll
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Business\bin\Debug\net8.0\BlankSolution.Data.dll
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Business\bin\Debug\net8.0\BlankSolution.Data.pdb
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Business\bin\Debug\net8.0\BlankSolution.Core.pdb
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Business\obj\Debug\net8.0\BlankSolution.Business.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Business\obj\Debug\net8.0\BlankSolution.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Business\obj\Debug\net8.0\BlankSolution.Business.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Business\obj\Debug\net8.0\BlankSolution.Business.AssemblyInfo.cs
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Business\obj\Debug\net8.0\BlankSolution.Business.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Business\obj\Debug\net8.0\BlankSol.2729A711.Up2Date
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Business\obj\Debug\net8.0\BlankSolution.Business.dll
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Business\obj\Debug\net8.0\refint\BlankSolution.Business.dll
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Business\obj\Debug\net8.0\BlankSolution.Business.pdb
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Business\obj\Debug\net8.0\ref\BlankSolution.Business.dll

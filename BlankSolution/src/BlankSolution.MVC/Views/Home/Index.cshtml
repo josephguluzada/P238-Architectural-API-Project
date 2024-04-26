@@ -1,0 +1,32 @@
+﻿@using BlankSolution.MVC.ViewModels
+@model List<GenreGetListViewModel>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<h1 style="color:forestgreen">@TempData["Successed"]</h1>
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>CreatedDate</th>
+            <th>UpdatedDate</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var genre in Model)
+        {
+           <tr>
+               <td>@genre.Id</td>
+               <td>@genre.Name</td>
+               <td>@genre.CreatedDate</td>
+               <td>@genre.UpdatedDate</td>
+           </tr> 
+        }
+    </tbody>
+</table>

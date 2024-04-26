@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\BlankSolution\\src\\BlankSolution.API\\wwwroot\\uploads\\bacd112f-d932-44d3-919b-b15eb8e4218eproduct-details-1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\bacd112f-d932-44d3-919b-b15eb8e4218eproduct-details-1.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlankSolution.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlankSolution.API.props",
+      "PackagePath": "build\\BlankSolution.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlankSolution.API.props",
+      "PackagePath": "buildMultiTargeting\\BlankSolution.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlankSolution.API.props",
+      "PackagePath": "buildTransitive\\BlankSolution.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

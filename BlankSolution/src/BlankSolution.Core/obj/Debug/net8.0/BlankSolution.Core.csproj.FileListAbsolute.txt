@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Core\bin\Debug\net8.0\BlankSolution.Core.deps.json
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Core\bin\Debug\net8.0\BlankSolution.Core.runtimeconfig.json
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Core\bin\Debug\net8.0\BlankSolution.Core.dll
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Core\bin\Debug\net8.0\BlankSolution.Core.pdb
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Core\obj\Debug\net8.0\BlankSolution.Core.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Core\obj\Debug\net8.0\BlankSolution.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Core\obj\Debug\net8.0\BlankSolution.Core.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Core\obj\Debug\net8.0\BlankSolution.Core.AssemblyInfo.cs
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Core\obj\Debug\net8.0\BlankSolution.Core.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Core\obj\Debug\net8.0\BlankSolution.Core.dll
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Core\obj\Debug\net8.0\refint\BlankSolution.Core.dll
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Core\obj\Debug\net8.0\BlankSolution.Core.pdb
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Core\obj\Debug\net8.0\BlankSolution.Core.genruntimeconfig.cache
+C:\Users\asus\Desktop\BlankSolution\src\BlankSolution.Core\obj\Debug\net8.0\ref\BlankSolution.Core.dll

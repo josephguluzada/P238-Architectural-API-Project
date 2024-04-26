@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "Ckx4ht0MYcwzmlN3tsWRJ3SY3C9pwvR0+b7HmF28w3c=",
+  "Source": "BlankSolution.API",
+  "BasePath": "_content/BlankSolution.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BlankSolution.API\\wwwroot",
+      "Source": "BlankSolution.API",
+      "ContentRoot": "C:\\Users\\asus\\Desktop\\BlankSolution\\src\\BlankSolution.API\\wwwroot\\",
+      "BasePath": "_content/BlankSolution.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\asus\\Desktop\\BlankSolution\\src\\BlankSolution.API\\wwwroot\\uploads\\bacd112f-d932-44d3-919b-b15eb8e4218eproduct-details-1.jpg",
+      "SourceId": "BlankSolution.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asus\\Desktop\\BlankSolution\\src\\BlankSolution.API\\wwwroot\\",
+      "BasePath": "_content/BlankSolution.API",
+      "RelativePath": "uploads/bacd112f-d932-44d3-919b-b15eb8e4218eproduct-details-1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\bacd112f-d932-44d3-919b-b15eb8e4218eproduct-details-1.jpg"
+    }
+  ]
+}
